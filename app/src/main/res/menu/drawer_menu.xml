@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pentateuco"
+        android:title="Pentateuco" />
+    <item android:id="@+id/historicos1"
+        android:title="Históricos" />
+    <item android:id="@+id/poeticos"
+        android:title="Poéticos" />
+    <item android:id="@+id/prof_mayores"
+        android:title="Proféticos mayores" />
+    <item android:id="@+id/prof_menores"
+        android:title="Proféticos menores" />
+    <item android:id="@+id/evangelios"
+        android:title="Evangelios" />
+    <item android:id="@+id/historicos2"
+        android:title="Históricos" />
+    <item android:id="@+id/paulinas"
+        android:title="Cartas paulinas" />
+    <item android:id="@+id/generales"
+        android:title="Cartas generales" />
+    <item android:id="@+id/profecia"
+        android:title="Profecía" />
+    <item android:id="@+id/favoritos"
+        android:title="Favoritos" />
+</menu>
